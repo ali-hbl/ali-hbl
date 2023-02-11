@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Ali 👋
+*Junior Software Engineer at [Staizen](https://staizen.com/).*
 
-<!--
-**ali-hbl/ali-hbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  A little more about me...
+```javascript
+const Ali = {
+  frontend: {
+    languages: ["JavaScript", "TypeScript"],
+    frameworks: ["ReactJS", "Angular"],
+  },
+  backend: {
+    languages: ["NodeJS", "PHP"],
+  },
+database: ["MySQL", "Firebase"],
+  versionControl: ["Git"],
+  design: ["Figma"],
+  projectManagement: ["Jira", "Confluence"],
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
