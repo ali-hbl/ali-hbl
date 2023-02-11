@@ -1,7 +1,7 @@
-### Hey, I'm Ali
+### Hey, I'm Ali 👺
 *Junior Software Engineer at [Staizen](https://staizen.com/).*
 
-####  A little more about me...
+###  A little more about me...
 ```javascript
   const Ali = {
     frontend: {
