@@ -16,3 +16,4 @@
     design: ['Figma'],
     projectManagement: ['Jira', 'Confluence'],
   };
+
