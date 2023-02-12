@@ -15,7 +15,7 @@
     },
     database: ['MySQL', 'Firebase'],
     versionControl: ['Git'],
-    design: ['Figma'],
+    design: ['Figma', 'Adobe XD'],
     projectManagement: ['Jira', 'Confluence'],
   };
 
