@@ -1,5 +1,5 @@
 ### Hey, I'm Ali 👺
-*Junior Software Engineer at [Staizen](https://staizen.com/).*
+*Junior Front-End Developer at [Staizen](https://staizen.com/).*
 
 ###  A little more about me...
 ```javascript
