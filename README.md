@@ -10,9 +10,7 @@
       languages: ['JavaScript', 'TypeScript'],
       frameworks: ['ReactJS', 'Angular'],
     },
-    backend: {
-      languages: ['NodeJS', 'PHP'],
-    },
+    backend: ['NodeJS', 'PHP'],
     database: ['MySQL', 'Firebase'],
     versionControl: ['Git'],
     design: ['Figma', 'Adobe XD'],
