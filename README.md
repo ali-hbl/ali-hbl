@@ -8,7 +8,7 @@
   const Ali = {
     frontend: {
       languages: ['JavaScript', 'TypeScript'],
-      frameworks: ['ReactJS', 'Angular'],
+      frameworks_n_libraries: ['ReactJS', 'Angular'],
     },
     backend: ['NodeJS', 'PHP'],
     database: ['MySQL', 'Firebase'],
