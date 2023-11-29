@@ -2,8 +2,6 @@
 *Junior Front-End Developer at [Staizen](https://staizen.com/).*
 
 ---
-
-###  A little more about me...
 ```javascript
   const Ali = {
     frontend: {
