@@ -1,5 +1,4 @@
 ### Hey, I'm Ali 👺
-*Junior Front-End Developer at [Staizen](https://staizen.com/).*
 
 ---
 ```javascript
